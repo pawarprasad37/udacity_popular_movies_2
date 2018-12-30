@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="most_popular">Most popular</string>
+    <string name="home_filter_title">Filter list</string>
+    <string name="highest_rated">Highest rated</string>
+    <string name="no_internet_error">You are offline. Please check your connectivity.</string>
+    <string name="movie_details_unavailable_error">Movie details not available.</string>
+    <string name="release_date">Release date:</string>
+    <string name="vote_average">Vote average:</string>
+    <string name="plot_synopsis">Plot synopsis:</string>
+    <string name="movie_trailers">Trailers:</string>
+    <string name="movie_reviews">Reviews:</string>
+    <string name="add_to_fav_success">Movie added to favourites</string>
+    <string name="remove_from_fav_success">Movie removed from favourites</string>
+    <string name="favourites">Favourites</string>
+    <string name="error_no_favourites">Zero favourite movies</string>
+    <string name="adding_to_favs">Adding to favourites...</string>
+    <string name="title_forward_text_chooser_title">Select app to share</string>
+</resources>
